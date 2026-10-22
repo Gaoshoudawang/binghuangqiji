@@ -1,0 +1,22 @@
+// 特殊奖池A池 - 兑换币为主
+window.BONUS_POOL_A = [
+  {name: '冰霜兑换币×10', quality: 'purple', weight: 1.500},
+  {name: '冰霜兑换币×8', quality: 'purple', weight: 6.000},
+  {name: '冰霜兑换币×5', quality: 'purple', weight: 15.000},
+  {name: '冰霜兑换币×2', quality: 'purple', weight: 65.678},
+  {name: '冰霜雪龙挂饰', quality: 'gold', weight: 5.000},
+  {name: '冰霜雪龙喷漆', quality: 'gold', weight: 5.000},
+  {name: '抛物线-冰霜', quality: 'gold', weight: 0.500},
+  {name: '狙击枪线-冰霜', quality: 'gold', weight: 0.200},
+  {name: '手雷-王者蔷薇-冰霜奇迹', quality: 'gold', weight: 0.200},
+  {name: '闪光弹-王者蔷薇-冰霜奇迹', quality: 'gold', weight: 0.200},
+  {name: '烟雾弹-王者蔷薇-冰霜奇迹', quality: 'gold', weight: 0.200},
+  {name: '燃烧弹-王者蔷薇-冰霜奇迹', quality: 'gold', weight: 0.200},
+  {name: '消灭音效-冰霜', quality: 'gold', weight: 0.050},
+  {name: '冰霜雪龙玩偶', quality: 'gold', weight: 0.150},
+  {name: '柯尔特-王者蔷薇-冰霜奇迹', quality: 'gold', weight: 0.040},
+  {name: '王者蝶刃-冰霜奇迹', quality: 'gold', weight: 0.030},
+  {name: '王者蔷薇扇-冰霜奇迹', quality: 'gold', weight: 0.030},
+  {name: '王者蝶刃', quality: 'gold', weight: 0.020},
+  {name: 'QBZ03-王者蔷薇-冰霜奇迹', quality: 'gold', weight: 0.002},
+];
